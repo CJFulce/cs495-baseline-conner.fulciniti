@@ -1,0 +1,5 @@
+1. I mainly have used Java and Python. I have some time spent with C, JavaScript, React, and SQL. 
+I have mostly coded in classes so far, but have worked on a couple out of class projects.
+The largest project I ever worked on was during my time working on the MediaComp library for the Teacher-Scholar program. We worked with a legacy codebase written in Python from 2003. It was about 3600 lines of code, until we consolidated its design. 
+I feel most comfortable working in Python. I also feel comfortable with defensive software design, and implementing defensive measures like input validation and authentication management. As far as teamwork, I am comfortable identifying tasks as well as delegating them to team members based on skill strengths/willingness to learn.  
+I feel least comfortable desgining large architecture, especially in Java due to verbosity. I have also struggled to write user stories in the past. I also feel less comfortable with front end development, but that should change as I continue through CS311 this semester. 
